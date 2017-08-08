@@ -1,5 +1,6 @@
-# US-map5
+# US Housing Data Visualization
 CSCE 120 Final Project
+Dec 2016
 
 My team and I were tasked to create an interactive infographic for the final project of our web development course at the University of Nebraska-Lincoln.
 
